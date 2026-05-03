@@ -75,3 +75,15 @@ export default defineConfig([
 	},
 ]);
 ```
+
+# Live-URL: https://fitness.dsutton.dev
+
+# Running locally:
+
+- `pnpm install`
+- `pnpm run build`
+- `pnpm run dev`
+
+# Status:
+
+- May 3rd, 2026: Project has been initialized and a pipeline has been set up on coolify for deployment from Github.
