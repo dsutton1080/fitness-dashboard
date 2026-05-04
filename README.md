@@ -86,4 +86,5 @@ export default defineConfig([
 
 # Status:
 
-- May 3rd, 2026: Project has been initialized and a pipeline has been set up on coolify for deployment from Github.
+- May 2nd, 2026: Project has been initialized and a pipeline has been set up on coolify for deployment from Github.
+- May 3rd, 2026: Mocked out adding a recharts component to display mock weekly mileage data. Also added tailscales catalyst ui kit components to the project.
