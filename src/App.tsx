@@ -1,3 +1,4 @@
+import WeeklyMileageChart from "./components/WeeklyMileageChart";
 // import { useState } from "react";
 // import { Dialog, DialogPanel } from "@headlessui/react";
 // import { Bars3Icon, XMarkIcon } from "@heroicons/react/24/outline";
@@ -13,7 +14,7 @@ export default function App() {
 	// const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
 
 	return (
-		<div className="bg-white dark:bg-gray-900 h-screen overflow-hidden">
+		<div className="bg-white dark:bg-gray-900 min-h-screen overflow-y-auto">
 			{/* <header className="absolute inset-x-0 top-0 z-50">
 				<nav
 					aria-label="Global"
@@ -121,7 +122,7 @@ export default function App() {
 				</Dialog>
 			</header> */}
 
-			<section className="relative isolate px-6 pt-20 lg:pt-24 h-screen overflow-hidden">
+			<section className="relative isolate px-6 pt-20 lg:pt-24 min-h-screen overflow-hidden">
 				<div
 					aria-hidden="true"
 					className="absolute inset-x-0 -top-40 -z-10 transform-gpu overflow-hidden blur-3xl sm:-top-80"
@@ -135,14 +136,17 @@ export default function App() {
 					/>
 				</div>
 				<div className="mx-auto max-w-2xl py-32 sm:py-48 lg:py-56">
-					<div className="text-center">
+					<div className="text-center mb-12">
 						<h1 className="text-5xl font-semibold tracking-tight text-balance text-gray-900 sm:text-7xl dark:text-white">
 							Fitness Dashboard
 						</h1>
-						<p className="mt-8 text-lg font-medium text-pretty text-gray-500 sm:text-xl/8 dark:text-gray-400">
-							More updates coming soon!
+						<p className="mt-6 text-lg font-medium text-pretty text-gray-500 sm:text-xl/8 dark:text-gray-400">
+							Track your progress, stay consistent.
 						</p>
 					</div>
+				</div>
+				<div className="pb-16">
+					<WeeklyMileageChart />
 				</div>
 				<div
 					aria-hidden="true"
