@@ -1,0 +1,242 @@
+[
+  {
+    "id": "wo_1000",
+    "day": "2026-05-10",
+    "start_datetime": "2026-05-08T22:23:00.038Z",
+    "end_datetime": "2026-05-09T22:53:00.038Z",
+    "activity": "Hiking",
+    "intensity": "hard",
+    "source": "manual",
+    "calories": 462,
+    "distance": 3122,
+    "label": null,
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.041Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "wo_1001",
+    "day": "2026-05-06",
+    "start_datetime": "2026-05-05T22:23:00.038Z",
+    "end_datetime": "2026-05-08T22:53:00.038Z",
+    "activity": "Cycling",
+    "intensity": "easy",
+    "source": "manual",
+    "calories": 378,
+    "distance": 13889,
+    "label": null,
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.041Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "wo_1002",
+    "day": "2026-05-06",
+    "start_datetime": "2026-05-03T22:23:00.038Z",
+    "end_datetime": "2026-05-06T22:53:00.038Z",
+    "activity": "Swimming",
+    "intensity": "easy",
+    "source": "confirmed",
+    "calories": 205,
+    "distance": 7923,
+    "label": null,
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.041Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "wo_1003",
+    "day": "2026-05-05",
+    "start_datetime": "2026-05-01T22:23:00.038Z",
+    "end_datetime": "2026-05-04T22:53:00.038Z",
+    "activity": "Swimming",
+    "intensity": "easy",
+    "source": "autodetected",
+    "calories": 205,
+    "distance": 9817,
+    "label": null,
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.041Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "wo_1004",
+    "day": "2026-05-03",
+    "start_datetime": "2026-04-30T22:23:00.038Z",
+    "end_datetime": "2026-05-01T22:53:00.038Z",
+    "activity": "Running",
+    "intensity": "hard",
+    "source": "autodetected",
+    "calories": 649,
+    "distance": 13938,
+    "label": null,
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.041Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "wo_1005",
+    "day": "2026-05-01",
+    "start_datetime": "2026-04-29T22:23:00.038Z",
+    "end_datetime": "2026-04-29T22:53:00.038Z",
+    "activity": "Running",
+    "intensity": "moderate",
+    "source": "confirmed",
+    "calories": 484,
+    "distance": 12058,
+    "label": null,
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.041Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "wo_1006",
+    "day": "2026-04-27",
+    "start_datetime": "2026-04-28T22:23:00.038Z",
+    "end_datetime": "2026-04-28T22:53:00.038Z",
+    "activity": "Running",
+    "intensity": "hard",
+    "source": "confirmed",
+    "calories": 221,
+    "distance": 8912,
+    "label": null,
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.041Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "wo_1007",
+    "day": "2026-04-25",
+    "start_datetime": "2026-04-26T22:23:00.038Z",
+    "end_datetime": "2026-04-24T22:53:00.038Z",
+    "activity": "Running",
+    "intensity": "moderate",
+    "source": "autodetected",
+    "calories": 593,
+    "distance": 13969,
+    "label": null,
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.041Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "wo_1008",
+    "day": "2026-04-25",
+    "start_datetime": "2026-04-21T22:23:00.038Z",
+    "end_datetime": "2026-04-21T22:53:00.038Z",
+    "activity": "Cycling",
+    "intensity": "moderate",
+    "source": "confirmed",
+    "calories": 676,
+    "distance": 6189,
+    "label": null,
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.041Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "wo_1009",
+    "day": "2026-04-22",
+    "start_datetime": "2026-04-21T22:23:00.038Z",
+    "end_datetime": "2026-04-22T22:53:00.038Z",
+    "activity": "Swimming",
+    "intensity": "hard",
+    "source": "autodetected",
+    "calories": 202,
+    "distance": 6537,
+    "label": null,
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.041Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "wo_1010",
+    "day": "2026-04-18",
+    "start_datetime": "2026-04-18T22:23:00.038Z",
+    "end_datetime": "2026-04-17T22:53:00.038Z",
+    "activity": "Swimming",
+    "intensity": "hard",
+    "source": "autodetected",
+    "calories": 742,
+    "distance": 5001,
+    "label": null,
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.041Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "wo_1011",
+    "day": "2026-04-18",
+    "start_datetime": "2026-04-17T22:23:00.038Z",
+    "end_datetime": "2026-04-18T22:53:00.038Z",
+    "activity": "Cycling",
+    "intensity": "easy",
+    "source": "confirmed",
+    "calories": 535,
+    "distance": 10952,
+    "label": null,
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.041Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "wo_1012",
+    "day": "2026-04-16",
+    "start_datetime": "2026-04-15T22:23:00.038Z",
+    "end_datetime": "2026-04-13T22:53:00.038Z",
+    "activity": "Swimming",
+    "intensity": "easy",
+    "source": "confirmed",
+    "calories": 723,
+    "distance": 10960,
+    "label": null,
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.041Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "wo_1013",
+    "day": "2026-04-12",
+    "start_datetime": "2026-04-13T22:23:00.038Z",
+    "end_datetime": "2026-04-11T22:53:00.038Z",
+    "activity": "Swimming",
+    "intensity": "hard",
+    "source": "confirmed",
+    "calories": 201,
+    "distance": 8840,
+    "label": null,
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.041Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "wo_1014",
+    "day": "2026-04-13",
+    "start_datetime": "2026-04-09T22:23:00.038Z",
+    "end_datetime": "2026-04-11T22:53:00.038Z",
+    "activity": "Cycling",
+    "intensity": "moderate",
+    "source": "confirmed",
+    "calories": 353,
+    "distance": 5012,
+    "label": null,
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.041Z",
+      "version": 2
+    }
+  }
+]

@@ -1,0 +1,332 @@
+[
+  {
+    "id": "st_1000",
+    "day": "2026-05-11",
+    "stress_high": 1665,
+    "recovery_high": 2333,
+    "day_summary": "normal",
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.040Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "st_1001",
+    "day": "2026-05-10",
+    "stress_high": 1218,
+    "recovery_high": 3401,
+    "day_summary": "normal",
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.040Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "st_1002",
+    "day": "2026-05-09",
+    "stress_high": 787,
+    "recovery_high": 1171,
+    "day_summary": "restored",
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.040Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "st_1003",
+    "day": "2026-05-08",
+    "stress_high": 869,
+    "recovery_high": 1155,
+    "day_summary": "restored",
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.040Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "st_1004",
+    "day": "2026-05-07",
+    "stress_high": 559,
+    "recovery_high": 2816,
+    "day_summary": "restored",
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.040Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "st_1005",
+    "day": "2026-05-06",
+    "stress_high": 488,
+    "recovery_high": 2781,
+    "day_summary": "stressful",
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.040Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "st_1006",
+    "day": "2026-05-05",
+    "stress_high": 951,
+    "recovery_high": 2358,
+    "day_summary": "restored",
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.040Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "st_1007",
+    "day": "2026-05-04",
+    "stress_high": 1041,
+    "recovery_high": 2169,
+    "day_summary": "stressful",
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.040Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "st_1008",
+    "day": "2026-05-03",
+    "stress_high": 1102,
+    "recovery_high": 3571,
+    "day_summary": "normal",
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.040Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "st_1009",
+    "day": "2026-05-02",
+    "stress_high": 60,
+    "recovery_high": 693,
+    "day_summary": "normal",
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.040Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "st_1010",
+    "day": "2026-05-01",
+    "stress_high": 428,
+    "recovery_high": 2334,
+    "day_summary": "restored",
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.040Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "st_1011",
+    "day": "2026-04-30",
+    "stress_high": 528,
+    "recovery_high": 2289,
+    "day_summary": "restored",
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.040Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "st_1012",
+    "day": "2026-04-29",
+    "stress_high": 1325,
+    "recovery_high": 2901,
+    "day_summary": "normal",
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.040Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "st_1013",
+    "day": "2026-04-28",
+    "stress_high": 241,
+    "recovery_high": 493,
+    "day_summary": "stressful",
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.040Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "st_1014",
+    "day": "2026-04-27",
+    "stress_high": 198,
+    "recovery_high": 2387,
+    "day_summary": "stressful",
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.040Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "st_1015",
+    "day": "2026-04-26",
+    "stress_high": 1392,
+    "recovery_high": 487,
+    "day_summary": "normal",
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.040Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "st_1016",
+    "day": "2026-04-25",
+    "stress_high": 459,
+    "recovery_high": 1386,
+    "day_summary": "normal",
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.040Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "st_1017",
+    "day": "2026-04-24",
+    "stress_high": 324,
+    "recovery_high": 1770,
+    "day_summary": "restored",
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.040Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "st_1018",
+    "day": "2026-04-23",
+    "stress_high": 1113,
+    "recovery_high": 2979,
+    "day_summary": "normal",
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.040Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "st_1019",
+    "day": "2026-04-22",
+    "stress_high": 151,
+    "recovery_high": 1547,
+    "day_summary": "normal",
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.040Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "st_1020",
+    "day": "2026-04-21",
+    "stress_high": 1611,
+    "recovery_high": 1783,
+    "day_summary": "normal",
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.040Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "st_1021",
+    "day": "2026-04-20",
+    "stress_high": 928,
+    "recovery_high": 547,
+    "day_summary": "stressful",
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.040Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "st_1022",
+    "day": "2026-04-19",
+    "stress_high": 1040,
+    "recovery_high": 204,
+    "day_summary": "restored",
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.040Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "st_1023",
+    "day": "2026-04-18",
+    "stress_high": 877,
+    "recovery_high": 3377,
+    "day_summary": "normal",
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.040Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "st_1024",
+    "day": "2026-04-17",
+    "stress_high": 399,
+    "recovery_high": 2680,
+    "day_summary": "stressful",
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.040Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "st_1025",
+    "day": "2026-04-16",
+    "stress_high": 1137,
+    "recovery_high": 2981,
+    "day_summary": "normal",
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.040Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "st_1026",
+    "day": "2026-04-15",
+    "stress_high": 1201,
+    "recovery_high": 1054,
+    "day_summary": "restored",
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.040Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "st_1027",
+    "day": "2026-04-14",
+    "stress_high": 1300,
+    "recovery_high": 1869,
+    "day_summary": "normal",
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.040Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "st_1028",
+    "day": "2026-04-13",
+    "stress_high": 1475,
+    "recovery_high": 2020,
+    "day_summary": "normal",
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.040Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "st_1029",
+    "day": "2026-04-12",
+    "stress_high": 511,
+    "recovery_high": 2161,
+    "day_summary": "normal",
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.040Z",
+      "version": 2
+    }
+  }
+]

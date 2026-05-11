@@ -1,0 +1,19 @@
+{
+  "id": 1234567,
+  "username": "fitnessfarmer",
+  "firstname": "DeRon",
+  "lastname": "Sutton",
+  "bio": "Trail runner | Cyclist | Data nerd",
+  "city": "Boulder",
+  "state": "Colorado",
+  "country": "United States",
+  "sex": "M",
+  "profile": "https://example.com/profile.jpg",
+  "profile_medium": "https://example.com/profile_medium.jpg",
+  "created_at": "2018-03-15T10:00:00Z",
+  "updated_at": "2026-05-11T00:23:40.571Z",
+  "measurement_preference": "feet",
+  "ftp": 285,
+  "weight": 72,
+  "athlete_type": 0
+}

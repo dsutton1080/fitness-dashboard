@@ -1,0 +1,572 @@
+[
+  {
+    "id": "act_1000",
+    "day": "2026-05-11",
+    "timestamp": "2026-05-11T00:23:00.038Z",
+    "score": 85,
+    "active_calories": 725,
+    "total_calories": 2774,
+    "steps": 13867,
+    "equivalent_walking_distance": 10566.654,
+    "high_activity_time": 1337,
+    "medium_activity_time": 3678,
+    "low_activity_time": 7022,
+    "sedentary_time": 19228,
+    "resting_time": 31913,
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.039Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "act_1001",
+    "day": "2026-05-10",
+    "timestamp": "2026-05-10T00:23:00.038Z",
+    "score": 51,
+    "active_calories": 622,
+    "total_calories": 2237,
+    "steps": 9427,
+    "equivalent_walking_distance": 7183.374,
+    "high_activity_time": 3337,
+    "medium_activity_time": 3761,
+    "low_activity_time": 4388,
+    "sedentary_time": 24357,
+    "resting_time": 26923,
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.039Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "act_1002",
+    "day": "2026-05-09",
+    "timestamp": "2026-05-09T00:23:00.038Z",
+    "score": 82,
+    "active_calories": 652,
+    "total_calories": 2383,
+    "steps": 6740,
+    "equivalent_walking_distance": 5135.88,
+    "high_activity_time": 4176,
+    "medium_activity_time": 2639,
+    "low_activity_time": 7690,
+    "sedentary_time": 23288,
+    "resting_time": 27007,
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.039Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "act_1003",
+    "day": "2026-05-08",
+    "timestamp": "2026-05-08T00:23:00.038Z",
+    "score": 80,
+    "active_calories": 760,
+    "total_calories": 2031,
+    "steps": 8774,
+    "equivalent_walking_distance": 6685.7880000000005,
+    "high_activity_time": 4131,
+    "medium_activity_time": 6031,
+    "low_activity_time": 8860,
+    "sedentary_time": 18398,
+    "resting_time": 28074,
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.039Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "act_1004",
+    "day": "2026-05-07",
+    "timestamp": "2026-05-07T00:23:00.038Z",
+    "score": 74,
+    "active_calories": 374,
+    "total_calories": 2475,
+    "steps": 8212,
+    "equivalent_walking_distance": 6257.544,
+    "high_activity_time": 4648,
+    "medium_activity_time": 6815,
+    "low_activity_time": 5832,
+    "sedentary_time": 23477,
+    "resting_time": 28184,
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.039Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "act_1005",
+    "day": "2026-05-06",
+    "timestamp": "2026-05-06T00:23:00.038Z",
+    "score": 70,
+    "active_calories": 699,
+    "total_calories": 2594,
+    "steps": 9047,
+    "equivalent_walking_distance": 6893.814,
+    "high_activity_time": 1886,
+    "medium_activity_time": 2608,
+    "low_activity_time": 7558,
+    "sedentary_time": 19233,
+    "resting_time": 27544,
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.039Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "act_1006",
+    "day": "2026-05-05",
+    "timestamp": "2026-05-05T00:23:00.038Z",
+    "score": 65,
+    "active_calories": 732,
+    "total_calories": 2520,
+    "steps": 11924,
+    "equivalent_walking_distance": 9086.088,
+    "high_activity_time": 4493,
+    "medium_activity_time": 5066,
+    "low_activity_time": 5856,
+    "sedentary_time": 20128,
+    "resting_time": 31443,
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.039Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "act_1007",
+    "day": "2026-05-04",
+    "timestamp": "2026-05-04T00:23:00.038Z",
+    "score": 68,
+    "active_calories": 722,
+    "total_calories": 2401,
+    "steps": 9198,
+    "equivalent_walking_distance": 7008.876,
+    "high_activity_time": 3607,
+    "medium_activity_time": 4626,
+    "low_activity_time": 3915,
+    "sedentary_time": 30803,
+    "resting_time": 28642,
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.039Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "act_1008",
+    "day": "2026-05-03",
+    "timestamp": "2026-05-03T00:23:00.038Z",
+    "score": 75,
+    "active_calories": 560,
+    "total_calories": 2155,
+    "steps": 9167,
+    "equivalent_walking_distance": 6985.254,
+    "high_activity_time": 3889,
+    "medium_activity_time": 4370,
+    "low_activity_time": 8477,
+    "sedentary_time": 30027,
+    "resting_time": 30858,
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.039Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "act_1009",
+    "day": "2026-05-02",
+    "timestamp": "2026-05-02T00:23:00.038Z",
+    "score": 51,
+    "active_calories": 368,
+    "total_calories": 2354,
+    "steps": 6209,
+    "equivalent_walking_distance": 4731.258,
+    "high_activity_time": 1237,
+    "medium_activity_time": 5619,
+    "low_activity_time": 5286,
+    "sedentary_time": 33376,
+    "resting_time": 31711,
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.040Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "act_1010",
+    "day": "2026-05-01",
+    "timestamp": "2026-05-01T00:23:00.038Z",
+    "score": 53,
+    "active_calories": 456,
+    "total_calories": 2525,
+    "steps": 10870,
+    "equivalent_walking_distance": 8282.94,
+    "high_activity_time": 1456,
+    "medium_activity_time": 3289,
+    "low_activity_time": 5189,
+    "sedentary_time": 26144,
+    "resting_time": 29120,
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.040Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "act_1011",
+    "day": "2026-04-30",
+    "timestamp": "2026-04-30T00:23:00.038Z",
+    "score": 58,
+    "active_calories": 634,
+    "total_calories": 2202,
+    "steps": 10395,
+    "equivalent_walking_distance": 7920.99,
+    "high_activity_time": 1497,
+    "medium_activity_time": 4918,
+    "low_activity_time": 4350,
+    "sedentary_time": 19339,
+    "resting_time": 27630,
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.040Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "act_1012",
+    "day": "2026-04-29",
+    "timestamp": "2026-04-29T00:23:00.038Z",
+    "score": 64,
+    "active_calories": 762,
+    "total_calories": 2718,
+    "steps": 6295,
+    "equivalent_walking_distance": 4796.79,
+    "high_activity_time": 3149,
+    "medium_activity_time": 4645,
+    "low_activity_time": 8142,
+    "sedentary_time": 19913,
+    "resting_time": 25658,
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.040Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "act_1013",
+    "day": "2026-04-28",
+    "timestamp": "2026-04-28T00:23:00.038Z",
+    "score": 59,
+    "active_calories": 720,
+    "total_calories": 2725,
+    "steps": 9808,
+    "equivalent_walking_distance": 7473.696,
+    "high_activity_time": 3078,
+    "medium_activity_time": 3723,
+    "low_activity_time": 10173,
+    "sedentary_time": 21485,
+    "resting_time": 27240,
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.040Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "act_1014",
+    "day": "2026-04-27",
+    "timestamp": "2026-04-27T00:23:00.038Z",
+    "score": 89,
+    "active_calories": 668,
+    "total_calories": 2730,
+    "steps": 6652,
+    "equivalent_walking_distance": 5068.8240000000005,
+    "high_activity_time": 1851,
+    "medium_activity_time": 6324,
+    "low_activity_time": 10773,
+    "sedentary_time": 27940,
+    "resting_time": 27782,
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.040Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "act_1015",
+    "day": "2026-04-26",
+    "timestamp": "2026-04-26T00:23:00.038Z",
+    "score": 88,
+    "active_calories": 321,
+    "total_calories": 1998,
+    "steps": 5769,
+    "equivalent_walking_distance": 4395.978,
+    "high_activity_time": 1804,
+    "medium_activity_time": 5151,
+    "low_activity_time": 6945,
+    "sedentary_time": 31210,
+    "resting_time": 30937,
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.040Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "act_1016",
+    "day": "2026-04-25",
+    "timestamp": "2026-04-25T00:23:00.038Z",
+    "score": 79,
+    "active_calories": 466,
+    "total_calories": 1839,
+    "steps": 10168,
+    "equivalent_walking_distance": 7748.0160000000005,
+    "high_activity_time": 4085,
+    "medium_activity_time": 6185,
+    "low_activity_time": 4236,
+    "sedentary_time": 20642,
+    "resting_time": 29393,
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.040Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "act_1017",
+    "day": "2026-04-24",
+    "timestamp": "2026-04-24T00:23:00.038Z",
+    "score": 58,
+    "active_calories": 644,
+    "total_calories": 1926,
+    "steps": 7326,
+    "equivalent_walking_distance": 5582.412,
+    "high_activity_time": 2898,
+    "medium_activity_time": 4583,
+    "low_activity_time": 9780,
+    "sedentary_time": 34319,
+    "resting_time": 28066,
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.040Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "act_1018",
+    "day": "2026-04-23",
+    "timestamp": "2026-04-23T00:23:00.038Z",
+    "score": 80,
+    "active_calories": 631,
+    "total_calories": 2104,
+    "steps": 6834,
+    "equivalent_walking_distance": 5207.508,
+    "high_activity_time": 1338,
+    "medium_activity_time": 2272,
+    "low_activity_time": 6985,
+    "sedentary_time": 24355,
+    "resting_time": 25334,
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.040Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "act_1019",
+    "day": "2026-04-22",
+    "timestamp": "2026-04-22T00:23:00.038Z",
+    "score": 50,
+    "active_calories": 529,
+    "total_calories": 2367,
+    "steps": 4098,
+    "equivalent_walking_distance": 3122.676,
+    "high_activity_time": 3906,
+    "medium_activity_time": 2747,
+    "low_activity_time": 9011,
+    "sedentary_time": 33837,
+    "resting_time": 32023,
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.040Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "act_1020",
+    "day": "2026-04-21",
+    "timestamp": "2026-04-21T00:23:00.038Z",
+    "score": 53,
+    "active_calories": 540,
+    "total_calories": 1866,
+    "steps": 4266,
+    "equivalent_walking_distance": 3250.692,
+    "high_activity_time": 3059,
+    "medium_activity_time": 4659,
+    "low_activity_time": 4232,
+    "sedentary_time": 32183,
+    "resting_time": 29865,
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.040Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "act_1021",
+    "day": "2026-04-20",
+    "timestamp": "2026-04-20T00:23:00.038Z",
+    "score": 69,
+    "active_calories": 679,
+    "total_calories": 2713,
+    "steps": 6164,
+    "equivalent_walking_distance": 4696.968,
+    "high_activity_time": 912,
+    "medium_activity_time": 2274,
+    "low_activity_time": 7494,
+    "sedentary_time": 19717,
+    "resting_time": 26453,
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.040Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "act_1022",
+    "day": "2026-04-19",
+    "timestamp": "2026-04-19T00:23:00.038Z",
+    "score": 57,
+    "active_calories": 604,
+    "total_calories": 2595,
+    "steps": 11050,
+    "equivalent_walking_distance": 8420.1,
+    "high_activity_time": 2361,
+    "medium_activity_time": 5274,
+    "low_activity_time": 8011,
+    "sedentary_time": 22720,
+    "resting_time": 28572,
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.040Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "act_1023",
+    "day": "2026-04-18",
+    "timestamp": "2026-04-18T00:23:00.038Z",
+    "score": 61,
+    "active_calories": 647,
+    "total_calories": 2343,
+    "steps": 7873,
+    "equivalent_walking_distance": 5999.226,
+    "high_activity_time": 606,
+    "medium_activity_time": 3720,
+    "low_activity_time": 3602,
+    "sedentary_time": 31035,
+    "resting_time": 30519,
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.040Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "act_1024",
+    "day": "2026-04-17",
+    "timestamp": "2026-04-17T00:23:00.038Z",
+    "score": 86,
+    "active_calories": 597,
+    "total_calories": 2629,
+    "steps": 11918,
+    "equivalent_walking_distance": 9081.516,
+    "high_activity_time": 5097,
+    "medium_activity_time": 4388,
+    "low_activity_time": 5303,
+    "sedentary_time": 33688,
+    "resting_time": 29320,
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.040Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "act_1025",
+    "day": "2026-04-16",
+    "timestamp": "2026-04-16T00:23:00.038Z",
+    "score": 66,
+    "active_calories": 391,
+    "total_calories": 1973,
+    "steps": 7276,
+    "equivalent_walking_distance": 5544.312,
+    "high_activity_time": 3985,
+    "medium_activity_time": 7015,
+    "low_activity_time": 10156,
+    "sedentary_time": 19024,
+    "resting_time": 28069,
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.040Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "act_1026",
+    "day": "2026-04-15",
+    "timestamp": "2026-04-15T00:23:00.038Z",
+    "score": 90,
+    "active_calories": 560,
+    "total_calories": 2746,
+    "steps": 6674,
+    "equivalent_walking_distance": 5085.588,
+    "high_activity_time": 1711,
+    "medium_activity_time": 3493,
+    "low_activity_time": 10365,
+    "sedentary_time": 24523,
+    "resting_time": 27643,
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.040Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "act_1027",
+    "day": "2026-04-14",
+    "timestamp": "2026-04-14T00:23:00.038Z",
+    "score": 86,
+    "active_calories": 566,
+    "total_calories": 1814,
+    "steps": 5375,
+    "equivalent_walking_distance": 4095.75,
+    "high_activity_time": 1431,
+    "medium_activity_time": 6398,
+    "low_activity_time": 9381,
+    "sedentary_time": 28833,
+    "resting_time": 29693,
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.040Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "act_1028",
+    "day": "2026-04-13",
+    "timestamp": "2026-04-13T00:23:00.038Z",
+    "score": 67,
+    "active_calories": 350,
+    "total_calories": 2777,
+    "steps": 9393,
+    "equivalent_walking_distance": 7157.466,
+    "high_activity_time": 2588,
+    "medium_activity_time": 3635,
+    "low_activity_time": 8384,
+    "sedentary_time": 24987,
+    "resting_time": 29189,
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.040Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "act_1029",
+    "day": "2026-04-12",
+    "timestamp": "2026-04-12T00:23:00.038Z",
+    "score": 66,
+    "active_calories": 454,
+    "total_calories": 2647,
+    "steps": 4974,
+    "equivalent_walking_distance": 3790.188,
+    "high_activity_time": 5105,
+    "medium_activity_time": 6004,
+    "low_activity_time": 6371,
+    "sedentary_time": 23890,
+    "resting_time": 32048,
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.040Z",
+      "version": 2
+    }
+  }
+]

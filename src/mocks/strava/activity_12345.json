@@ -1,0 +1,189 @@
+{
+  "id": 30000,
+  "external_id": "strava_30000",
+  "upload_id": 30000,
+  "athlete": {
+    "id": 1234567,
+    "resource_state": 1
+  },
+  "name": "Morning Run",
+  "distance": 8048,
+  "moving_time": 2634,
+  "elapsed_time": 2766,
+  "total_elevation_gain": 111.1,
+  "type": "Run",
+  "sport_type": "Run",
+  "workout_type": null,
+  "start_date": "2026-05-10T19:08:49.182Z",
+  "start_date_local": "2026-05-10 19:00:24",
+  "timezone": "America/Denver",
+  "utc_offset": -7,
+  "start_latlng": [
+    40.022956495092615,
+    -105.26551624918547
+  ],
+  "end_latlng": [
+    40.01707362955646,
+    -105.26355006946827
+  ],
+  "achievement_count": 0,
+  "kudos_count": 7,
+  "comment_count": 1,
+  "athlete_count": 1,
+  "photo_count": 0,
+  "total_photo_count": 0,
+  "map": {
+    "id": "m30000",
+    "polyline": "",
+    "summary_polyline": "o~i`H",
+    "resource_state": 2
+  },
+  "trainer": true,
+  "commute": true,
+  "manual": false,
+  "private": false,
+  "flagged": false,
+  "gear_id": "g1",
+  "average_speed": 3.0548865095611117,
+  "max_speed": 4.176193785979,
+  "has_heartrate": true,
+  "average_heartrate": 144,
+  "max_heartrate": 167,
+  "pr_count": 0,
+  "has_kudoed": false,
+  "suffer_score": null,
+  "description": "Great morning on the trails. Felt strong through the middle section.",
+  "calories": 420,
+  "device_name": "Garmin Edge 1050",
+  "embed_token": "abc123token",
+  "average_temp": 18,
+  "elev_high": 1850,
+  "elev_low": 1650,
+  "splits_metric": [
+    {
+      "distance": 1000,
+      "elapsed_time": 292,
+      "moving_time": 270,
+      "elevation_difference": 0,
+      "split": 1,
+      "average_speed": 4.002199997086451,
+      "average_heartrate": 158,
+      "pace_zone": 2
+    },
+    {
+      "distance": 1100,
+      "elapsed_time": 277,
+      "moving_time": 248,
+      "elevation_difference": 5.8,
+      "split": 2,
+      "average_speed": 3.5310402065271047,
+      "average_heartrate": 159,
+      "pace_zone": 2
+    },
+    {
+      "distance": 1200,
+      "elapsed_time": 258,
+      "moving_time": 258,
+      "elevation_difference": 8.1,
+      "split": 3,
+      "average_speed": 3.270211016080624,
+      "average_heartrate": 166,
+      "pace_zone": 2
+    },
+    {
+      "distance": 1300,
+      "elapsed_time": 253,
+      "moving_time": 231,
+      "elevation_difference": 6.3,
+      "split": 4,
+      "average_speed": 4.116255271771347,
+      "average_heartrate": 162,
+      "pace_zone": 2
+    },
+    {
+      "distance": 1400,
+      "elapsed_time": 285,
+      "moving_time": 278,
+      "elevation_difference": 6.3,
+      "split": 5,
+      "average_speed": 3.6015075546569006,
+      "average_heartrate": 163,
+      "pace_zone": 2
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1609,
+      "elapsed_time": 386,
+      "moving_time": 380,
+      "elevation_difference": 6.4,
+      "split": "1",
+      "average_speed": 3.524146055893243,
+      "average_heartrate": 165,
+      "pace_zone": 2
+    },
+    {
+      "distance": 1609,
+      "elapsed_time": 384,
+      "moving_time": 384,
+      "elevation_difference": 5.6,
+      "split": "1",
+      "average_speed": 3.5548672279779447,
+      "average_heartrate": 160,
+      "pace_zone": 2
+    },
+    {
+      "distance": 1609,
+      "elapsed_time": 384,
+      "moving_time": 368,
+      "elevation_difference": 2.2,
+      "split": "1",
+      "average_speed": 3.652152858503843,
+      "average_heartrate": 161,
+      "pace_zone": 2
+    },
+    {
+      "distance": 1609,
+      "elapsed_time": 409,
+      "moving_time": 404,
+      "elevation_difference": 0.9,
+      "split": "1",
+      "average_speed": 3.2649525082189133,
+      "average_heartrate": 155,
+      "pace_zone": 2
+    },
+    {
+      "distance": 1609,
+      "elapsed_time": 407,
+      "moving_time": 391,
+      "elevation_difference": 3.4,
+      "split": "1",
+      "average_speed": 3.8302176106624275,
+      "average_heartrate": 158,
+      "pace_zone": 2
+    }
+  ],
+  "laps": [
+    {
+      "id": 999,
+      "name": "Lap 1",
+      "elapsed_time": 1800,
+      "moving_time": 1750,
+      "distance": 6000,
+      "start_date": "2026-05-10T00:23:40.572Z",
+      "start_date_local": "2026-05-10 00:23:40",
+      "start_index": 0,
+      "end_index": 250,
+      "total_elevation_gain": 85,
+      "average_speed": 3.4,
+      "max_speed": 5.2,
+      "average_heartrate": 155,
+      "max_heartrate": 172,
+      "lap_index": 1,
+      "split": 1,
+      "pace_zone": 2,
+      "average_cadence": 82,
+      "average_watts": 165
+    }
+  ]
+}

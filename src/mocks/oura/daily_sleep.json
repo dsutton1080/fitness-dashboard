@@ -1,0 +1,572 @@
+[
+  {
+    "id": "sl_1000",
+    "day": "2026-05-11",
+    "timestamp": "2026-05-11T00:23:00.038Z",
+    "score": 70,
+    "contributors": {
+      "deep_sleep": 23,
+      "efficiency": 84,
+      "latency": 78,
+      "rem_sleep": 25,
+      "restfulness": 77,
+      "timing": 70,
+      "total_sleep": 81
+    },
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.039Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "sl_1001",
+    "day": "2026-05-10",
+    "timestamp": "2026-05-10T00:23:00.038Z",
+    "score": 67,
+    "contributors": {
+      "deep_sleep": null,
+      "efficiency": null,
+      "latency": null,
+      "rem_sleep": null,
+      "restfulness": null,
+      "timing": null,
+      "total_sleep": null
+    },
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.039Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "sl_1002",
+    "day": "2026-05-09",
+    "timestamp": "2026-05-09T00:23:00.038Z",
+    "score": 67,
+    "contributors": {
+      "deep_sleep": null,
+      "efficiency": null,
+      "latency": null,
+      "rem_sleep": null,
+      "restfulness": null,
+      "timing": null,
+      "total_sleep": null
+    },
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.039Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "sl_1003",
+    "day": "2026-05-08",
+    "timestamp": "2026-05-08T00:23:00.038Z",
+    "score": 70,
+    "contributors": {
+      "deep_sleep": null,
+      "efficiency": null,
+      "latency": null,
+      "rem_sleep": null,
+      "restfulness": null,
+      "timing": null,
+      "total_sleep": null
+    },
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.039Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "sl_1004",
+    "day": "2026-05-07",
+    "timestamp": "2026-05-07T00:23:00.038Z",
+    "score": 83,
+    "contributors": {
+      "deep_sleep": null,
+      "efficiency": null,
+      "latency": null,
+      "rem_sleep": null,
+      "restfulness": null,
+      "timing": null,
+      "total_sleep": null
+    },
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.039Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "sl_1005",
+    "day": "2026-05-06",
+    "timestamp": "2026-05-06T00:23:00.038Z",
+    "score": 56,
+    "contributors": {
+      "deep_sleep": null,
+      "efficiency": null,
+      "latency": null,
+      "rem_sleep": null,
+      "restfulness": null,
+      "timing": null,
+      "total_sleep": null
+    },
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.039Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "sl_1006",
+    "day": "2026-05-05",
+    "timestamp": "2026-05-05T00:23:00.038Z",
+    "score": 72,
+    "contributors": {
+      "deep_sleep": null,
+      "efficiency": null,
+      "latency": null,
+      "rem_sleep": null,
+      "restfulness": null,
+      "timing": null,
+      "total_sleep": null
+    },
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.039Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "sl_1007",
+    "day": "2026-05-04",
+    "timestamp": "2026-05-04T00:23:00.038Z",
+    "score": 57,
+    "contributors": {
+      "deep_sleep": null,
+      "efficiency": null,
+      "latency": null,
+      "rem_sleep": null,
+      "restfulness": null,
+      "timing": null,
+      "total_sleep": null
+    },
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.039Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "sl_1008",
+    "day": "2026-05-03",
+    "timestamp": "2026-05-03T00:23:00.038Z",
+    "score": 82,
+    "contributors": {
+      "deep_sleep": null,
+      "efficiency": null,
+      "latency": null,
+      "rem_sleep": null,
+      "restfulness": null,
+      "timing": null,
+      "total_sleep": null
+    },
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.039Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "sl_1009",
+    "day": "2026-05-02",
+    "timestamp": "2026-05-02T00:23:00.038Z",
+    "score": 74,
+    "contributors": {
+      "deep_sleep": null,
+      "efficiency": null,
+      "latency": null,
+      "rem_sleep": null,
+      "restfulness": null,
+      "timing": null,
+      "total_sleep": null
+    },
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.039Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "sl_1010",
+    "day": "2026-05-01",
+    "timestamp": "2026-05-01T00:23:00.038Z",
+    "score": 75,
+    "contributors": {
+      "deep_sleep": null,
+      "efficiency": null,
+      "latency": null,
+      "rem_sleep": null,
+      "restfulness": null,
+      "timing": null,
+      "total_sleep": null
+    },
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.039Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "sl_1011",
+    "day": "2026-04-30",
+    "timestamp": "2026-04-30T00:23:00.038Z",
+    "score": 57,
+    "contributors": {
+      "deep_sleep": null,
+      "efficiency": null,
+      "latency": null,
+      "rem_sleep": null,
+      "restfulness": null,
+      "timing": null,
+      "total_sleep": null
+    },
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.039Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "sl_1012",
+    "day": "2026-04-29",
+    "timestamp": "2026-04-29T00:23:00.038Z",
+    "score": 86,
+    "contributors": {
+      "deep_sleep": null,
+      "efficiency": null,
+      "latency": null,
+      "rem_sleep": null,
+      "restfulness": null,
+      "timing": null,
+      "total_sleep": null
+    },
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.039Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "sl_1013",
+    "day": "2026-04-28",
+    "timestamp": "2026-04-28T00:23:00.038Z",
+    "score": 55,
+    "contributors": {
+      "deep_sleep": null,
+      "efficiency": null,
+      "latency": null,
+      "rem_sleep": null,
+      "restfulness": null,
+      "timing": null,
+      "total_sleep": null
+    },
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.039Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "sl_1014",
+    "day": "2026-04-27",
+    "timestamp": "2026-04-27T00:23:00.038Z",
+    "score": 72,
+    "contributors": {
+      "deep_sleep": null,
+      "efficiency": null,
+      "latency": null,
+      "rem_sleep": null,
+      "restfulness": null,
+      "timing": null,
+      "total_sleep": null
+    },
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.039Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "sl_1015",
+    "day": "2026-04-26",
+    "timestamp": "2026-04-26T00:23:00.038Z",
+    "score": 83,
+    "contributors": {
+      "deep_sleep": null,
+      "efficiency": null,
+      "latency": null,
+      "rem_sleep": null,
+      "restfulness": null,
+      "timing": null,
+      "total_sleep": null
+    },
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.039Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "sl_1016",
+    "day": "2026-04-25",
+    "timestamp": "2026-04-25T00:23:00.038Z",
+    "score": 63,
+    "contributors": {
+      "deep_sleep": null,
+      "efficiency": null,
+      "latency": null,
+      "rem_sleep": null,
+      "restfulness": null,
+      "timing": null,
+      "total_sleep": null
+    },
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.039Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "sl_1017",
+    "day": "2026-04-24",
+    "timestamp": "2026-04-24T00:23:00.038Z",
+    "score": 59,
+    "contributors": {
+      "deep_sleep": null,
+      "efficiency": null,
+      "latency": null,
+      "rem_sleep": null,
+      "restfulness": null,
+      "timing": null,
+      "total_sleep": null
+    },
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.039Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "sl_1018",
+    "day": "2026-04-23",
+    "timestamp": "2026-04-23T00:23:00.038Z",
+    "score": 88,
+    "contributors": {
+      "deep_sleep": null,
+      "efficiency": null,
+      "latency": null,
+      "rem_sleep": null,
+      "restfulness": null,
+      "timing": null,
+      "total_sleep": null
+    },
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.039Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "sl_1019",
+    "day": "2026-04-22",
+    "timestamp": "2026-04-22T00:23:00.038Z",
+    "score": 64,
+    "contributors": {
+      "deep_sleep": null,
+      "efficiency": null,
+      "latency": null,
+      "rem_sleep": null,
+      "restfulness": null,
+      "timing": null,
+      "total_sleep": null
+    },
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.039Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "sl_1020",
+    "day": "2026-04-21",
+    "timestamp": "2026-04-21T00:23:00.038Z",
+    "score": 81,
+    "contributors": {
+      "deep_sleep": null,
+      "efficiency": null,
+      "latency": null,
+      "rem_sleep": null,
+      "restfulness": null,
+      "timing": null,
+      "total_sleep": null
+    },
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.039Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "sl_1021",
+    "day": "2026-04-20",
+    "timestamp": "2026-04-20T00:23:00.038Z",
+    "score": 57,
+    "contributors": {
+      "deep_sleep": null,
+      "efficiency": null,
+      "latency": null,
+      "rem_sleep": null,
+      "restfulness": null,
+      "timing": null,
+      "total_sleep": null
+    },
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.039Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "sl_1022",
+    "day": "2026-04-19",
+    "timestamp": "2026-04-19T00:23:00.038Z",
+    "score": 76,
+    "contributors": {
+      "deep_sleep": null,
+      "efficiency": null,
+      "latency": null,
+      "rem_sleep": null,
+      "restfulness": null,
+      "timing": null,
+      "total_sleep": null
+    },
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.039Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "sl_1023",
+    "day": "2026-04-18",
+    "timestamp": "2026-04-18T00:23:00.038Z",
+    "score": 73,
+    "contributors": {
+      "deep_sleep": null,
+      "efficiency": null,
+      "latency": null,
+      "rem_sleep": null,
+      "restfulness": null,
+      "timing": null,
+      "total_sleep": null
+    },
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.039Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "sl_1024",
+    "day": "2026-04-17",
+    "timestamp": "2026-04-17T00:23:00.038Z",
+    "score": 70,
+    "contributors": {
+      "deep_sleep": null,
+      "efficiency": null,
+      "latency": null,
+      "rem_sleep": null,
+      "restfulness": null,
+      "timing": null,
+      "total_sleep": null
+    },
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.039Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "sl_1025",
+    "day": "2026-04-16",
+    "timestamp": "2026-04-16T00:23:00.038Z",
+    "score": 72,
+    "contributors": {
+      "deep_sleep": null,
+      "efficiency": null,
+      "latency": null,
+      "rem_sleep": null,
+      "restfulness": null,
+      "timing": null,
+      "total_sleep": null
+    },
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.039Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "sl_1026",
+    "day": "2026-04-15",
+    "timestamp": "2026-04-15T00:23:00.038Z",
+    "score": 64,
+    "contributors": {
+      "deep_sleep": null,
+      "efficiency": null,
+      "latency": null,
+      "rem_sleep": null,
+      "restfulness": null,
+      "timing": null,
+      "total_sleep": null
+    },
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.039Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "sl_1027",
+    "day": "2026-04-14",
+    "timestamp": "2026-04-14T00:23:00.038Z",
+    "score": 78,
+    "contributors": {
+      "deep_sleep": null,
+      "efficiency": null,
+      "latency": null,
+      "rem_sleep": null,
+      "restfulness": null,
+      "timing": null,
+      "total_sleep": null
+    },
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.039Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "sl_1028",
+    "day": "2026-04-13",
+    "timestamp": "2026-04-13T00:23:00.038Z",
+    "score": 67,
+    "contributors": {
+      "deep_sleep": null,
+      "efficiency": null,
+      "latency": null,
+      "rem_sleep": null,
+      "restfulness": null,
+      "timing": null,
+      "total_sleep": null
+    },
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.039Z",
+      "version": 2
+    }
+  },
+  {
+    "id": "sl_1029",
+    "day": "2026-04-12",
+    "timestamp": "2026-04-12T00:23:00.038Z",
+    "score": 82,
+    "contributors": {
+      "deep_sleep": null,
+      "efficiency": null,
+      "latency": null,
+      "rem_sleep": null,
+      "restfulness": null,
+      "timing": null,
+      "total_sleep": null
+    },
+    "meta": {
+      "updated_at": "2026-05-11T00:23:00.039Z",
+      "version": 2
+    }
+  }
+]
